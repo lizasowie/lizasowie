@@ -11,7 +11,7 @@ I don't really know a lot about codeing. I learned basic java in school and uni.
 
 Insta:  https://www.instagram.com/liza.soka
 
-Mail:   https://www.threads.net/@liza.soka
+Mail:   mailto:lizasoka.office@gmail.com
 
 
 
