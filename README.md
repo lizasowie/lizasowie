@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @lizasowie
-- 👀 I’m interested in almost everything.
-- 🌱 I’m currently learning java, powershell.
-- 💞️ I’m looking to collaborate with a productive mindset.
-- 📫 How to reach me: @liza.soka Instagram
-- ⚡ Fun fact: Quit? Don't quit? Noodles. Don't Noodles?
+Just a german girl trying to make the most out of her time.
+👀 I love productivity, study economic computer science and I am an atlethe.
+I don't really know a lot about codeing. I learned basic java in school and uni.
+💞️ I’m looking to collaborate with everyone whos cool and likes to spend their time wisely.
+📫 You can reach me on:
+Insta:  https://www.instagram.com/liza.soka
+Mail:   https://www.threads.net/@liza.soka
 
-<!---
-lizasowie/lizasowie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡I love Spongebob and the quote: 'Quit? Don't quit? Noodles. Don't Noodles?'
